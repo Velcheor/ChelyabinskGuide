@@ -1,0 +1,296 @@
+<resources>
+    <string name="app_name">Chelyabinsk Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_food">Food</string>
+    <string name="category_movies">Cinema</string>
+    <string name="category_art">Art</string>
+    <string name="category_shops">Hotels</string>
+
+    <!-- MUSH information -->
+    <string name="food_mush_description">The MUSH cafe restaurant invites inhabitants and guests of Chelyabinsk perfectly to spend time and to enjoy the best dishes of the Russian
+        and Caucasian cuisine. You are waited by cozy halls, attentive personnel, tasty kitchen and incendiary music.
+        Our friendly collective will make everything that rest became for you unforgettable. In our inexpensive cafe
+        in the center of Chelyabinsk you can celebrate any celebration: to hold a banquet, отгулять a wedding, to celebrate
+        anniversary or birthday, to arrange an office party, to organize a buffet reception or a conference.
+        Our cafe located in Leninsky district is considered one of the best in Chelyabinsk. To services of our guests banquet rooms
+        of various size. Our cooks suggest to try the most tasty dishes.</string>
+    <string name="food_mush_phone">+7 351 223 25 25</string>
+    <string name="food_mush_address">Barbus Street, 132a</string>
+    <string name="food_mush_site">www.mush74.ru</string>
+
+    <!-- SLON information -->
+    <string name="food_elephant_description">On this place have found a tusk of a huge animal.
+        Today to him there would be 5 million years.
+        We have decided to give him new life.
+        There was so a "Slon" restaurant.</string>
+    <string name="food_elephant_phone">+7 351 263 96 73</string>
+    <string name="food_elephant_address">Lenin avenue, 40</string>
+    <string name="food_elephant_site">www.restoslon.ru</string>
+
+    <!-- OLD Yerevan information -->
+    <string name="food_yerevan_description">The network of restaurants "Old Yerevan" offers you well and to cheerfully spend time and also to celebrate any important event in your life.
+        Having organized at us a banquet, a corporate party or a family holiday, we will make everything that your celebration left only the best impressions.
+        Whether irrespective of you in "Old Yerevan" celebrate a birthday whether have run to have a bite or eat perfectly prepared shish kebab with friends —
+        you will always leave from here with good mood and firm intention to visit us once again!</string>
+    <string name="food_yerevan_phone">+7 351 215 99 72</string>
+    <string name="food_yerevan_address">Engels Street, 42b</string>
+    <string name="food_yerevan_site">www.sterevan.ru</string>
+
+    <!-- Da zio Pino information -->
+    <string name="food_pino_description">Dear friends! Benvenuti!
+        We are glad to tell you that the Da zio Pino restaurant opens for you doors to the world of traditional Italian cuisine!
+        Only for you, I will try true experts, excellent cooks from the country of Beauty, Love And the Eternal sun Giuseppe and Antonio.
+        We invite to estimate our warm welcome and the cozy atmosphere!</string>
+    <string name="food_pino_phone">+7 351 776 28 18</string>
+    <string name="food_pino_address">Lesoparkovaya Street, 7a</string>
+    <string name="food_pino_site">www.vk.com/daziopino</string>
+
+    <!-- Balkan Grill information -->
+    <string name="food_balkan_description">The restaurant of Serbian cuisine "the Balkans the Grill" invites pleasantly to spend evening with
+        darling or in a circle of close friends. Here cozy, almost house situation, live music, friendly staff and surprising kitchen which taste
+        can't be forgotten. Even gourmets will appreciate the thinnest taste and refined registration of the Balkan dishes: pljeskavica,
+        chevapchich, shish kebab in Serbian, veshalitsa, sausages.</string>
+    <string name="food_balkan_phone">+7 351 265 86 46</string>
+    <string name="food_balkan_address">Tsvillinga Street, 20</string>
+    <string name="food_balkan_site">www.smartreserve.ru</string>
+
+    <!-- Mariage information -->
+    <string name="food_mariage_description">Mariage cafe (fr. association of two, marriage, matrimony) — the joint project of the chef of restaurant
+        "Relatives" Igor Moshkin and the confectioner Sergey Timofeev who possesses the confectionery studio of the same name. Partners did not begin
+        to invent the bicycle and have given the institution the same name, having put in him new sense. The Mariage cafe
+        is a creative tandem, the union of two professionals for which, first of all, the taste and quality of a product is important.</string>
+    <string name="food_mariage_phone">+7 351 248 49 12</string>
+    <string name="food_mariage_address">Kopeyskoye Highway, 64</string>
+    <string name="food_mariage_site">www.vk.com/mariagemacaron</string>
+
+    <!-- Doka Pizza information -->
+    <string name="food_doka_description">History of emergence of pizza originates in depth of the millennia. History of emergence of "Dock pizza"
+        originates in 1994 when the first cafe down the street of Tsvillinga, 55b has been open. Then there was a hard time for development
+        of small business, but there has passed time, and "Dock pizza" develops, updated and continues to please guests.
+        We don't stand still and constantly we please you with new recipes, the new range, new design. We wait for you on any of our addresses and,
+        we will be glad to offer you tasty and fresh pizza, pastries, salads and hot dishes! Come, we are always glad to you!</string>
+    <string name="food_doka_phone">+7 351 734-22-34</string>
+    <string name="food_doka_address">Rossiyskaya Street, 222</string>
+    <string name="food_doka_site">www.dokapizza.ru</string>
+
+    <!-- MOVIES INFORMATION -->
+
+    <!-- NikaLand Information -->
+    <string name="movies_nikaland_description">Gagarin Park" on the 4th floor is located in Broadcasting Company ". Here you can hold any festive event
+        or to have a rest with family and friends, to receive a lot of positive mood, to enjoy good kitchen,
+        pleasant music and to receive a charge of good mood for long time.
+        Loyal price policy. Actions, discounts and always interesting actions! Are a part of a complex:
+        Bowling, Movie theater, Children's park, To Re Mi Bar, Sport of bars, Dinopark, Brooklyn Restaurant, Japanese restaurant "Satory", Coffee house.</string>
+    <string name="movies_nikaland_phone">+7 351 200 44 40</string>
+    <string name="movies_nikaland_address">Truda Street, 183</string>
+    <string name="movies_nikaland_site">www.nika.land/</string>
+
+    <!-- Megapolis Information -->
+    <string name="movies_megapolis_description">Each of us has addictions in the choice of the movie. One it is crazy about blockbusters, others wish
+        to plunge into the world of a fantasy, the third go to the cinema on purpose not so much to watch the movie how many to stay near darling on
+        those places that are called "places for kisses".
+        At our movie theaters movies go every day. Novelties of cinema alternate with the classical pictures which were in time to win recognition of millions
+        of audience worldwide. We actively watch novelties of cinema and the first we seek to show them to inhabitants and guests of our city. We consider your
+        wishes and we distribute only those movies which you would like to watch on the wide screen.
+        For admirers of the 3D industry there is a special hall where the screen picture comes to life in the eyes and becomes a part of our reality. Both adults and
+        children with an equal share of admiration watch film and animated films in the 3D format.</string>
+    <string name="movies_megapolis_phone">+7 351 247 45 45</string>
+    <string name="movies_megapolis_address">Sverdlovsky Avenue, 51a</string>
+    <string name="movies_megapolis_site">www.mega74.ru</string>
+
+    <!-- Kinomax-Ural Information -->
+    <string name="movies_ural_description">The Kinomax movie theater chain provides to all inhabitants and city visitors Chelyabinsk a possibility of viewing of movies
+        and animated films in modern RealD a format which surpasses all known technologies of the 3D display - the cinema Movie theater to Chelyabinsk offers
+        the visitors a cozy and refined interior.
+        The movie theater is also equipped with D-BOX chairs. The main feature of chairs of D-BOX is their opportunity to vibrate and bend in different directions
+        during viewing of the movie. Viewing of movies in such chairs will allow to plunge into the world of unique feelings and to be influenced by all special effects.</string>
+    <string name="movies_ural_phone">+7 351 700 06 07</string>
+    <string name="movies_ural_address">Vorovskogo street, 6</string>
+    <string name="movies_ural_site">www.kinomax.ru</string>
+
+    <!-- Znamya Information -->
+    <string name="movies_znamya_description">The Znamya movie theater occupies one of ancient buildings of Chelyabinsk on Kirov Street, a monument of architecture and history of the
+        20th century. It has been constructed on the main pedestrian street of the city in 1910 and carried the name "Luxury".
+        Our movie theater – the oldest in the Ural region and the third on seniority in the country (opening has taken place 1910). We have only 1 hall (120 places), but we are
+        in the downtown on a pedestrian street of Kirovk.
+        Despite it – we the only municipal movie theater in the city who shows novelties of the Russian and morovy cinema on the modern equipment with a qualitative sound and the picture.
+        In 2017 in movie theater there have passed big changes. We have united cash desk of sale of tickets with kinobary – now all purchases are carried out in one place and at
+        us for 95%. the automated movie theater.</string>
+    <string name="movies_znamya_phone">+7 351 266 60 65</string>
+    <string name="movies_znamya_address">Kirov Street, 112</string>
+    <string name="movies_znamya_site">www.kinoznam74.ru</string>
+
+    <!-- Cinema Park Information -->
+    <string name="movies_park_description">"Cinema Park" for many citizens became the first and favourite multiplex which has opened in Chelyabinsk. For those who still were only at usual
+        movie theaters his visit became the real event. The multiplex "Cinema Park" in Chelyabinsk is an autonomous zone in the big mall and if there is spontaneous desire to watch the
+        movie – please, at choice several sessions at once. The beginning of the chosen session can be waited quietly on a cozy sofa in the foyer. The person of any age will feel here
+        comfortably because when he comes in "Cinema Park", plunges into the atmosphere which can be defined as "love to the viewer and love to cinema". The most tasty caramel popcorn
+        in bars – the only sweet popcorn in the city which prepares on the American technology with use of caramel.</string>
+    <string name="movies_park_phone">+7 800 700 01 11</string>
+    <string name="movies_park_address">Artilleriyskaya Street, 136</string>
+    <string name="movies_park_site">www.cinemapark.ru</string>
+
+    <!-- Kinomax-Rodnik Information -->
+    <string name="movies_rodnik_phone">+7 351 728 40 22</string>
+    <string name="movies_rodnik_address">Truda Street, 203</string>
+
+    <!-- Almaz Information -->
+    <string name="movies_almaz_phone">+7 351 210 11 11</string>
+    <string name="movies_almaz_address">Kopeyskoye Highway, 64</string>
+    <string name="movies_almaz_site">almaz.mega74.ru</string>
+
+
+    <!-- ART Information -->
+
+    <!-- Opera and ballet theater Information -->
+    <string name="art_opera_descrition">From 1980 to 1983 the Theatre was on restoration, during this period the stucco molding of the auditorium and foyer has been covered with gold
+        leaf which 3 kilograms were required! Chandeliers and candelabrums were decorated by new crystal, and bronze fragments of chandeliers and candelabrums have been ground at the
+        plant of the manufacturer. The theater became more beautiful, more majestic, real Palace of art, a subject of pride of residents of Chelyabinsk.</string>
+    <string name="art_opera_phone">+7 351 263 87 63</string>
+    <string name="art_opera_address">Yaroslavl area, 1</string>
+    <string name="art_opera_site">chelopera.ru</string>
+
+    <!-- Drama theater Information -->
+    <string name="art_drama_descrition">Regional State Budgetary Institution of culture "Chelyabinsk state academic drama theater of Naum Orlov"
+        The director is Petrova Elena Anatolyevna.
+        The Chelyabinsk drama theater founded in 1921 is one of the largest and oldest theaters of South Ural, pride of our edge, the cultural center of Chelyabinsk and area. Date of his basis it
+        is considered to be on December 9, 1921 when the professional troupe of P. Vasilyev has begun to appear on stage of People\'s house. The first progress of theater in the 1930th
+        years is connected with the chief director S.A. Golovin. At him the constant troupe has been created, the performances which have gained wide recognition have been put.
+        The theater has reached the highest blossoming in the 1950th years at the director N.A. Medvedev. The theater shone on tours in Leningrad, Kuibyshev and other cities. The new
+        stage in the history of theater and new creative rise in the 1970-90th years is connected with a name of the people's artist of Russia Naum Yuryevich Orlov who was 30 years
+        (1973-2003) the artistic director of theater. At the theater is mute I have moved to the new building, to him the rank Academic has been given, he has got love and recognition
+        of the audience, has moved forward in number of the leading theaters of Russia. Orlov, mastering new styles and genres, serious, epic, attentive to the person, to his destiny,
+        to his inner world, filosofichno deep and psychologically thin and at the same time bright and spectacular created theater.</string>
+    <string name="art_drama_phone">+7 351 264 76 84</string>
+    <string name="art_drama_address">Revolyutsii Square, 6</string>
+    <string name="art_drama_site">www.cheldrama.ru</string>
+
+    <!-- Chamber theater Information -->
+    <string name="art_chamber_description">Chamber theater – one of the youngest in Chelyabinsk. The idea of his creation has come up in 1988 at group of actors of Theatre for Young
+        Audience led by Evgeny Falevich. It were the people rallied by the idea of theater house, union of adherents.
+        Originally Chamber theater existed under the auspices of the Chelyabinsk fund of culture. Special support to theater was given by the director of bureau of creative initiatives
+        Fonda Tatiana Lieberman who has become subsequently his first director. The building wasn't yet, rented casual rooms, played in streets, in the yards, in summer camps. Actors
+        Lyudmila Barad, Zulfia Akchurina, Sergey Dzyuba, Victor Nagdasev, Nadezhda Nagdaseva, etc. participated in performances.</string>
+    <string name="art_chamber_phone">+7 351 263 30 35</string>
+    <string name="art_chamber_address">Tsvillinga Street, 15</string>
+    <string name="art_chamber_site">www.kamerata.ru</string>
+
+    <!-- Drama youth theater Information -->
+    <string name="art_youth_description">If to bring preliminary – and very approximate! – results of fifty years\' work of theater that, first of all, should be told that for these years
+        more than 260 performances are put on the stage of Youth theater. The best works of domestic and world classics have been presented in the repertoire of Theatre: Fonvizin, Pushkin,
+        Gogol, Lermontov, Goncharov, Griboyedov, Turgenev, Dostoyevsky, Chekhov, Ostrovsky, Shakespeare, Molière, Gozzi, Goldoni, Brecht, Lorca, Maeterlinck, Strinberg, modern Russian
+        and foreign playwrights: Arbuzov, Rozov, Pogodin, Schwartz, Vishnek, Razumovskaya and many others.</string>
+    <string name="art_youth_phone">+7 351 263 22 03</string>
+    <string name="art_youth_address">Kirov Street, 116</string>
+    <string name="art_youth_site">www.chelgmt.ru</string>
+
+    <!-- Historical museum of South Ural Information -->
+    <string name="art_history_description">The State Historical Museum of South Ural - a unique treasury of historical and cultural and spiritual heritage of edge. About 300 thousand
+        objects, including, the exhibits having the all-Russian value are stored in his funds.
+        The museum building on the embankment of Miass built in 2006 is one of the most beautiful architectural constructions of the city. It is in the place where at the beginning
+        of the 18th century the Chelyabinsk fortress has been based. Not casually, external outlines of the building remind serf towers and walls.
+        The museum is a favourite vacation spot of citizens today. Visitors are attracted not only by a convenient arrangement, a large number of exhibition areas, comfortable conditions
+        for acquaintance to exhibits. In the building of the museum three halls of the constant exposition telling about the nature and history of South Ural, the children's museum,
+        library, the museum on a roof, a rock-garden, the museum and exhibition center, Big and small halls of replaceable expositions, two unique observation decks and many other things
+        are placed.
+        Today in funds of the museum there are more than 300 thousand objects.</string>
+    <string name="art_history_phone">+7 351 265 23 88</string>
+    <string name="art_history_address">Truda Street, 100</string>
+    <string name="art_history_site">www.chelmuseum.ru</string>
+
+    <!-- Arkaim Information -->
+    <string name="art_arkaim_description">Arkaim - the strengthened settlement of a bronze age. The age of the settlement is 4 thousand years, the settlement has been created on in advance
+        deliberate plan, with the clear town-planning idea, difficult architecture and fortification.
+        From the moment of opening of the settlement of Arkaim in the steppe Trans-Ural region there have passed thirty years. During this time for protection of Arkaim, many other
+        monuments to antiquity and historical natural landscapes there was a reserve. At his borders the powerful research, educational and cultural and educational complex is created;
+        works of Regional State Budgetary Institution of culture - the Historical and cultural reserve "Arkaim" were developed. At the heart of his researches - an integrated approach
+        to studying of antiquity in interrelation of natural systems and human societies. Active museum and educational work is carried out in the context of dialogue of cultures of the
+        past and the present.</string>
+    <string name="art_arkaim_phone">+7 (351) 218–40–30</string>
+    <string name="art_arkaim_address">Voroshilov Street, 6</string>
+    <string name="art_arkaim_site">www.arkaim-center.ru</string>
+
+    <!-- Museum of the wood Information -->
+    <string name="art_wood_description">We invite children and adults to visit not the new, but little-known MUSEUM of the WOOD in Chelyabinsk. Here it is possible to see effigies of
+        the birds and animals living in Chelyabinsk region and also to get acquainted with forestry history in the Urals. At the building the arboretum is located. Nearby - the City
+        pine forest where it is possible to walk in the fresh air.
+        Visit and excursions free. The museum will be interesting to any age, and group of schools and kindergartens - our regular customers.</string>
+    <string name="art_wood_phone">+7 351 232 02 08</string>
+    <string name="art_wood_address">Varnenskaya Street, 1a</string>
+    <string name="art_wood_site">www.vk.com/musey_lesa</string>
+
+
+    <!-- HoTELS INFORMATION -->
+    <!-- Euphoria information -->
+    <string name="hotels_euphoria_description">Sometimes there are such moments when you feel that was tired of work and vanity, from noise of the central streets, from a routine
+        of weekdays, long ago didn\'t see the loved one, and to be a time on the seashore there isn\'t always an opportunity, there is no time for long flight and week rest.
+        Our hotel exists since 2012, and we have managed to make happy many people, to present them the world and rest, the fairy tale, to adjust them on a wave of quiet and harmonious
+        rest. To have a rest from reality, you don't need to move away far from the city, you can relax literally on the neighboring street.
+        Our unique numbers bright violences of paints and the true romanticism, luxury and comfort, conservatism and a modernist style won't leave anybody indifferent. You can not worry
+        that your tranquility and a privacy in number will be disturbed, the weakening silence and rest always reigns in our hotel.</string>
+    <string name="hotels_euphoria_phone">+7 351 771 36 63</string>
+    <string name="hotels_euphoria_address">Podolskaya Street, 38a</string>
+    <string name="hotels_euphoria_site">www.euphoria74.ru</string>
+
+    <!-- Loft information -->
+    <string name="hotels_loft_description">LOFT Hostel represents not just means of temporary accommodation of inhabitants and city visitors, it is the platform executed in architectural
+        style transferring industrial orientation of Chelyabinsk.
+        During creation of hotel features of architectural style of New York of the 40th years of the 20th century which has arisen in the industrial quarters which have been skillfully
+        facetted and synthesized from an industrial component of the capital of South Ural are considered.
+        The hotel designed to dip the guests into industrial history of the city is obliged to choose the location corresponding to the style, at the same time skillfully combining it with
+        modern realities and wishes of skilled tourists.</string>
+    <string name="hotels_loft_phone">+7 351 217 20 19</string>
+    <string name="hotels_loft_address">Gorky Street, 91</string>
+    <string name="hotels_loft_site">loft-otel.ru</string>
+
+    <!-- Black Cube information -->
+    <string name="hotels_cube_description">Our city is popular among tourists and travelers, a large number of architectural monuments, squares and parks, entertaining institutions,
+        restaurants and shopping centers where it is possible to spend interestingly time, for example, during the holiday is located here. Besides, Chelyabinsk is the large business
+        center so, a great number of businessmen and businessmen daily arrive for the solution of important questions here. Each of guests of our city, certainly, needs hotel for an
+        hour, for days or for longer term. Modern travelers are exacting, as a rule, them interests accommodation in comfortable conditions with a sauna, existence of free Internet
+        connection, the parking.</string>
+    <string name="hotels_cube_phone">+7 351 225 11 55</string>
+    <string name="hotels_cube_address">Lenin Avenue, 68</string>
+    <string name="hotels_cube_site">blackcube74.ru</string>
+
+    <!-- Malahit information -->
+    <string name="hotels_malahit_description">Malakhit congress hotel - the largest hotel Chelyabinska:v hotel 402 numbers of various categories.
+        The first hotel in Chelyabinsk with an all inclusive system.
+        Convenient arrangement, the big parking, free transfer from the airport, full range of services in the territory of hotel: restaurants, conference rooms, a sauna and the pool
+        - all this will make your trip to Chelyabinsk comfortable and unforgettable!</string>
+    <string name="hotels_malahit_phone">+7 351 247 45 02</string>
+    <string name="hotels_malahit_address">Truda Street, 153</string>
+    <string name="hotels_malahit_site">malahit74.ru</string>
+
+    <!-- Arbat information -->
+    <string name="hotels_arbat_description">Arbat hotel - hotel in Chelyabinsk which is located in the heart of the city and its business life! It is an island of unsurpassed service
+        in the quiet, cozy place near Revolution Square, the main office buildings and sights of Chelyabinsk. The hotel offers 77 home-style of the comfortable numbers issued in light
+        pastel tones. "Buffet" which you will be able to enjoy at the restaurant located on the 2nd floor of hotel is included a breakfast in the price of accommodation. Here you will
+        also be able to try complex business lunches or to lead an informal discussion with partners in the center of Chelyabinsk behind a business breakfast.</string>
+    <string name="hotels_arbat_phone">+7 351 200 44 05</string>
+    <string name="hotels_arbat_address">Sovetskaya Street, 38</string>
+    <string name="hotels_arbat_site">www.arbat74.ru</string>
+
+    <!-- Victoria information -->
+    <string name="hotels_victory_description">The Victoria hotel is one of the most recognizable hotel brands in Chelyabinsk with faultless business reputation in the field
+        of service and comfort.
+        The Victoria hotel in Chelyabinsk is a restaurant hotel complex which for years of the work has received many guests and has proved as the prestigious place for comfortable
+        rest. Modern standards of service, the European traditions of hospitality and convenience of an arrangement – our guests love for it and choose Victoria hotel in Chelyabinsk.
+        Victoria hotel - one of the most popular hotels for businessmen and tourists which is conveniently located in 20 km. from the international airport "Balandino", in 6 km. from
+        the railway station, in 10 minutes from the business center of Chelyabinsk, near the largest trade and business centers.
+        Welcome to Victoria hotel!</string>
+    <string name="hotels_victory_phone">+7 351 210 00 20</string>
+    <string name="hotels_victory_address">Molodogvardeytsev Street, 34</string>
+    <string name="hotels_victory_site">www.victoria.ru</string>
+
+    <!-- ParkCity information -->
+    <string name="hotels_parkcity_description">The harmonious combination of modern design decisions to standards of luxury comfort is done by Parksiti Hotel by the ideal choice
+        both for business people, and for guests on vacation. 97 cozy rooms, including numbers of luxury range, also round-the-clock rum-service, a parking, services of a transfer
+        in the airport, an avia and railway service, business lunches and dinners and many others.</string>
+    <string name="hotels_parkcity_phone">+7 351 265 40 30</string>
+    <string name="hotels_parkcity_address">Lesoparkovaya Street, 6</string>
+    <string name="hotels_parkcity_site">www.parkcityhotel.ru</string>
+
+
+</resources>
